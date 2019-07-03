@@ -1,5 +1,5 @@
 # Tanks
-This project is a coding challenge and a concept for a Mobile 3D Tank MOBA game.
+This project is a coding challenge and a concept for a Mobile 3D Tank MOBA game.</br>
 Currently only single-player tank mechanics are implemented.</br></br>
 Check out this gameplay video:</br>
 [![Tanks](http://img.youtube.com/vi/wtaBkM_YLg8/0.jpg)](http://www.youtube.com/watch?v=wtaBkM_YLg8 "Tanks")
