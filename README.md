@@ -24,5 +24,9 @@ A line renderer is used to display the trajectory.
 When the user hits the fire button it calls the Trajectory Drawer and spawns a new Projectile and the currently calculated trajectory is passed to it as a list of points which are used to dinamically create an Animation with position and rotation keyframes along that path.
 
 ## Project Map
-* /Assets/Scripts contains the scripts
-* /Assets/Scripts/TrajectoryDrawer
+
+The scripts can be found at [Tanks/Unity Project/Assets/Scripts/](https://github.com/Fluctuationqt/Tanks/tree/master/Unity%20Project/Assets/Scripts)
+* [Tank Movement Controller](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Assets/Scripts/PhysicsTank.cs)
+* [Turret Controller](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Assets/Scripts/TurretController.cs)
+* [Trajectory Drawer](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Assets/Scripts/TrajectoryDrawer.cs)
+* [Projectile Animation](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Assets/Scripts/ProjectileAnimation.cs)
