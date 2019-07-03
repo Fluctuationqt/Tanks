@@ -3,12 +3,12 @@ This project is a coding challenge and an a concept for a Mobile 3D Tank MOBA ga
 Currently only single-player tank mechanics are implemented.
 
 ## Game Heirarchy
-![heirarchy](/img/Tank_Heirarchy.jpg "Heirarchy")
+![heirarchy](https://github.com/Fluctuationqt/Tanks/blob/master/img/Tank_heirarchy.jpg "Heirarchy")
 
 ## The tracks
 The tracks are made in blender and they have a single mesh that is weight painted to N separate bones that
 can be moved up and down either by following the built-in WheelColliders (as in this example) or by Raycasting towards the ground for a non-physics based implementation.
-![tracks](/img/Tracks.jpg "Track Model")
+![tracks](https://github.com/Fluctuationqt/Tanks/blob/master/img/Track.jpg "Track Model")
 
 ## The movement
 To create the realistic tank movement I used WheelColliders that get differential torque on each side based on the user turn input.
@@ -30,3 +30,5 @@ The scripts can be found at [Tanks/Unity Project/Assets/Scripts/](https://github
 * [Turret Controller](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Assets/Scripts/TurretController.cs)
 * [Trajectory Drawer](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Assets/Scripts/TrajectoryDrawer.cs)
 * [Projectile Animation](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Assets/Scripts/ProjectileAnimation.cs)
+
+The android apk can be found at [Tanks/Unity Project/Build/](https://github.com/Fluctuationqt/Tanks/blob/master/Unity%20Project/Build/)
